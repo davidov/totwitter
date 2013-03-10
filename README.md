@@ -1,4 +1,4 @@
-totwitter
-=========
+totwitter_v1
+============
 
-ToTwitter version 1.1 using Ember.js
+ToTwitter version 1.0 non-ember.js
